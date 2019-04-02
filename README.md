@@ -1,3 +1,3 @@
 # www-cultivo-earth
 
-by ThreeFold (www.threefold.io)
+By ThreeFold (www.threefold.io)
