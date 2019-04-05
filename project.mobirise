@@ -36,9 +36,7 @@
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "publishType": "local",
-    "publishPath": "file:///Users/nick/work/cultivo/www-cultivo-earth"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
