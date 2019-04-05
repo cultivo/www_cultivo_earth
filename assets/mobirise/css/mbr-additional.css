@@ -1464,11 +1464,6 @@ body {
     padding: 0 0.5rem;
   }
 }
-.cid-rm73wbYyG6 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
-}
 .cid-rm73yjTlsM {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1552,4 +1547,9 @@ body {
 }
 .cid-rm73yjTlsM foot-menu-item B {
   color: #232323;
+}
+.cid-rm73wbYyG6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
 }
