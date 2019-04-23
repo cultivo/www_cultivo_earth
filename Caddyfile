@@ -1,14 +1,14 @@
 :80 {
     bind 0.0.0.0
     gzip
-    root /opt/www_cultivo_earth/
+    root /opt/websites/
     log stdout
     git {
         repo git@github.com:cultivo/www_cultivo_earth.git
         branch production
         hook /webhook "test9278"
         hook_type generic
-        key /opt/www_cultivo_earth/id_rsa
-        path /opt/www_cultivo_earth/
+        key /opt/websites/id_rsa
+        path /opt/websites/
     }
 }
