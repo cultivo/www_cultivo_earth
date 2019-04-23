@@ -1,11 +1,11 @@
-:2019 {
+:80 {
     bind 0.0.0.0
     gzip
     root /opt/www_cultivo_earth/
     log stdout
     git {
         repo git@github.com:cultivo/www_cultivo_earth.git
-        branch master
+        branch production
         hook /webhook "test9278"
         hook_type generic
         key /opt/www_cultivo_earth/id_rsa
