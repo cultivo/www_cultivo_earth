@@ -10,5 +10,6 @@
         hook_type generic
         key /opt/websites/id_rsa
         path /opt/websites/
+        then sh /opt/scripts/startup.sh
     }
 }
