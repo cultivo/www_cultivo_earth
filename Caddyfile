@@ -10,5 +10,6 @@
         hook_type generic
         key /opt/www_cultivo_earth/id_rsa
         path /opt/www_cultivo_earth/
+        then sh /opt/scripts/startup.sh
     }
 }
