@@ -4,7 +4,7 @@
     root /opt/www_cultivo_earth/
     log stdout
     git {
-        repo https://github.com/cultivo/www_cultivo_earth/.git
+        repo https://github.com/cultivo/www_cultivo_earth.git
         branch master
         hook /webhook "test9278"
         hook_type generic
